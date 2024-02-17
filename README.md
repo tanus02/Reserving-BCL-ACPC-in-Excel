@@ -1,3 +1,2 @@
-# Reserving-BCL-ACPC-methods-using-Excel
-Incremental counts and amounts of claims data,
-Paid incremental amounts data 
+Basic chain ladder (BCL), Average cost per claim (ACPC) methods of reserving
+ 
